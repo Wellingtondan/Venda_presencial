@@ -1,7 +1,6 @@
 # Venda_presencial
-Venda Presencial
 
-📌 Caso 1: Cliente de MG comprou presencialmente na loja física em SP e irá utilizar a mercadoria em SP
+📌 **Caso 1:** Cliente de MG comprou presencialmente na loja física em SP e irá utilizar a mercadoria em SP
 ➤ Situação:
 Venda presencial.
 
